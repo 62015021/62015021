@@ -18,5 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=62015021&show_icons=true&locale=en" alt="62015021" /></p>
 
 
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
