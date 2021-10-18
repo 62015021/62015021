@@ -2,7 +2,7 @@
 <img width="100%" height = "100%" src="https://firebasestorage.googleapis.com/v0/b/imgatm.appspot.com/o/HULA%20HOOP.png?alt=media&token=9c277238-8579-4862-a11f-d57cb3fd473d" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Bitch! < Developers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=62015021.62015021)
