@@ -1,5 +1,5 @@
 <h1 align="center">Hi! Bitch💦 I'm Chayanin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from TH</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
